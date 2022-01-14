@@ -1,5 +1,8 @@
-karma-angular-filesort [![Build Status](https://travis-ci.org/wilsonjackson/karma-angular-filesort.svg?branch=master)](https://travis-ci.org/wilsonjackson/karma-angular-filesort)
+karma-angular-filesort-lts
 ======================
+
+Note from koaty: I'm just keeping the lights on so to speak, this package needed some hotfix patches for security scans
+and the original was no longer maintained.
 
 > Sorts your AngularJS files to avoid `[$injector:nomod]` errors.
 
