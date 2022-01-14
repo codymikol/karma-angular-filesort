@@ -22,14 +22,14 @@
   },
   "dependencies": {
     "minimatch": "^3.0.3",
-    "ng-dependencies": "^0.3.0",
+    "ng-dependencies": "^0.8.1",
     "q": "^1.0.1",
-    "toposort": "^0.2.10"
+    "toposort": "^2.0.2"
   },
   "devDependencies": {
-    "chai": "^1.9.2",
-    "mocha": "^3.1.0",
-    "sinon": "^1.10.3",
-    "sinon-chai": "^2.6.0"
+    "chai": "^4.3.4",
+    "mocha": "^9.1.4",
+    "sinon": "^12.0.1",
+    "sinon-chai": "^3.7.0"
   }
 }
