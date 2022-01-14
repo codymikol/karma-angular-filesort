@@ -45,7 +45,7 @@ describe('karma-angular-filesort', function () {
 	}
 
 	function verifyPromise(promise, verify, done) {
-		Q.resolve(promise)
+		Promise.resolve(promise)
 			.then(verify)
 			.then(done)
 			.catch(function (error) {
